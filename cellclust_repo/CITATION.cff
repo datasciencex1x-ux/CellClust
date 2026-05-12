@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "CellSize-Clust: An Unsupervised Multi-Algorithm Method for Classifying Skeletal Muscle Cells by Feret Diameter"
+version: "1.0.0"
+date-released: 2026-05-12
+license: MIT
+url: "https://gitlab.com/rigo1983/cellclust"
+repository-code: "https://gitlab.com/rigo1983/cellclust"
+keywords:
+  - skeletal-muscle
+  - morphometry
+  - unsupervised-clustering
+  - feret-diameter
+  - myofiber-classification
+authors:
+  - family-names: Llanos
+    given-names: Paola
+    affiliation: "Faculty of Dentistry, University of Chile"
+  - family-names: Russell-Guzmán
+    given-names: Javier
+  - family-names: Monsalves-Álvarez
+    given-names: Matías
+  - family-names: Aravena
+    given-names: Matías
+  - family-names: Maturana
+    given-names: Martín
+  - family-names: Olivares
+    given-names: Rodrigo
+  - family-names: Olivares
+    given-names: Pablo
+  - family-names: López-Gil
+    given-names: José Francisco
+  - family-names: Yáñez-Sepúlveda
+    given-names: Rodrigo
+preferred-citation:
+  type: article
+  title: "CellSize-Clust: An Unsupervised Multi-Algorithm Method for Classifying Skeletal Muscle Cells by Feret Diameter"
+  year: 2026
+  authors:
+    - family-names: Llanos
+      given-names: Paola
+    - family-names: Russell-Guzmán
+      given-names: Javier
+    - family-names: Monsalves-Álvarez
+      given-names: Matías
+    - family-names: Aravena
+      given-names: Matías
+    - family-names: Maturana
+      given-names: Martín
+    - family-names: Olivares
+      given-names: Rodrigo
+    - family-names: Olivares
+      given-names: Pablo
+    - family-names: López-Gil
+      given-names: José Francisco
+    - family-names: Yáñez-Sepúlveda
+      given-names: Rodrigo
